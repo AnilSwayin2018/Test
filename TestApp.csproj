@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Using Include= "System.Collections.Generic"/>
+    <Using Include= "System.Linq"/>
+  </ItemGroup>
+</Project>
