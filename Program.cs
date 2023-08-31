@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-         var names = new []{ "Anil","Ajay","Sanjay","Kishore","Geetanjali"};
+         var names = new []{ "Anil","Ajay","Sanjay","Kishore","Geetanjali","Reshma"};
         // var res = names.Chunk(2);
         var result1 = names.ElementAt(1);
         var result2 = names.ElementAt(^1); 
